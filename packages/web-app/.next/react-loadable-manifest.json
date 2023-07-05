@@ -1,0 +1,32 @@
+{
+  "../../test-component/dist/esm-es5/index-c287578f.js -> ./shadow-css-95922619.js": {
+    "id": 1966,
+    "files": [
+      "static/chunks/966.30594bfc10ed6fe5.js"
+    ]
+  },
+  "../../test-component/dist/esm-es5/patch-36e47a86.js -> ./css-shim-5ce2b5c4.js": {
+    "id": 9639,
+    "files": [
+      "static/chunks/polyfills-css-shim.f0df0b6950d60a88.js"
+    ]
+  },
+  "../../test-component/dist/esm-es5/patch-36e47a86.js -> ./dom-91ed8d21.js": {
+    "id": 319,
+    "files": [
+      "static/chunks/polyfills-dom.361f27e38b2761bc.js"
+    ]
+  },
+  "../../test-component/dist/esm/polyfills/index.js -> ./core-js.js": {
+    "id": 1282,
+    "files": [
+      "static/chunks/polyfills-core-js.8b8a48b00c95d2fe.js"
+    ]
+  },
+  "../../test-component/dist/esm/polyfills/index.js -> ./dom.js": {
+    "id": 7968,
+    "files": [
+      "static/chunks/polyfills-dom.361f27e38b2761bc.js"
+    ]
+  }
+}
